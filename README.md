@@ -1,4 +1,4 @@
-# xData Demo Basic
+# XData Demo Basic
 - Framework Delphi para desenvolvimento de servidores de API REST/JSON
 - Onde baixar: [https://www.tmssoftware.com/site/xdata.asp](https://www.tmssoftware.com/site/xdata.asp)
 - Documentação oficial: [Documentação oficial](https://doc.tmssoftware.com/biz/xdata/guide/index.html)
