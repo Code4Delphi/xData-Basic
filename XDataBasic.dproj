@@ -131,6 +131,8 @@
             <Form>MainView</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="Src\ClientesService.pas"/>
+        <DCCReference Include="Src\ClientesServiceImplementation.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -157,7 +159,7 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="5">
-                <DeployFile LocalName="Win32\Debug\XDataBasic.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="Bin\XDataBasic.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>XDataBasic.exe</RemoteName>
                         <Overwrite>true</Overwrite>

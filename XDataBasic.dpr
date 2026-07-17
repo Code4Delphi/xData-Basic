@@ -2,7 +2,9 @@ program XDataBasic;
 
 uses
   Vcl.Forms,
-  Main.Vew in 'Src\Main.Vew.pas' {MainView};
+  Main.Vew in 'Src\Main.Vew.pas' {MainView},
+  ClientesService in 'Src\ClientesService.pas',
+  ClientesServiceImplementation in 'Src\ClientesServiceImplementation.pas';
 
 {$R *.res}
 
